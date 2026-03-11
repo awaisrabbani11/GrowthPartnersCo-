@@ -1,0 +1,5 @@
+{
+  "name": "GrowthPartnersCo",
+  "description": "Professional B2B service provider offering Truck Dispatching, Real Estate, Medical Billing & Coding, and AI Automations.",
+  "requestFramePermissions": ["geolocation"]
+}
